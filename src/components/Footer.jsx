@@ -56,6 +56,14 @@ const Footer = () => {
                       </a>
                   </button>
             </div>
+            <div>
+          <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
+          <ul className='flex flex-col gap-1 text-gray-600'>
+            <li>+234-705-338-8153</li>
+            <li>frankbudike.com</li>
+          </ul>
+        </div>
+
             <div className="border-t border-t-white">
                 <p className="text-14 sm:text-16 text-white text-center font-inter font-normal">©2024 Frank Budike. All rights Reserved</p>
             </div>
