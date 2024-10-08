@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className="fixed z-10 top-[10px] md:top-[30px] w-full px-[6px] md:px-[40px]">
         <div className=" fixed backdrop-filter backdrop-blur-lg flex items-center justify-between container py-[24px] px-[24px] bg-[#00000080] rounded-[40px] font-inter font-medium">
             {/* <div className="flex justify-between items-center shrink-0"> */}
-                <Link className="text-20 text-white" to='/'>Frank Studios</Link>
+                <Link className="text-20 text-white" to='/frankbudike/'>Frank Studios</Link>
             {/* </div> */}
             <div id="" className="hidden md:flex lg:flex justify-between text-16 text-white px-[40px]">
                 <div className=''></div>
@@ -18,7 +18,7 @@ const Navbar = () => {
                 <a href='#gallery'>
                     <p className="capitalize cursor-pointer py-[10px] lg:py-2 max-lg:border-b border-b-stroke p-3">Gallery</p>
                 </a>
-                <NavLink to="/biography">
+                <NavLink to="/frankbudike/biography">
                     <p className="text-16 font-inter font-medium py-[10px] lg:py-2 max-lg:border-b border-b-stroke p-3">Biography</p>
                 </NavLink>
                 <div className="flex items-center gap-6">
