@@ -18,7 +18,7 @@ const Navbar = () => {
                 <a href='#gallery'>
                     <p className="capitalize cursor-pointer py-[10px] lg:py-2 max-lg:border-b border-b-stroke p-3">Gallery</p>
                 </a>
-                <NavLink to="/frankbudike/biography">
+                <NavLink to="biography">
                     <p className="text-16 font-inter font-medium py-[10px] lg:py-2 max-lg:border-b border-b-stroke p-3">Biography</p>
                 </NavLink>
                 <div className="flex items-center gap-6">

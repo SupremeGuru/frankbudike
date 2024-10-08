@@ -17,7 +17,7 @@ const Footer = () => {
                               <input id="email" type="text" placeholder="Enter email address" required data-testid="test-email" aria-labelledby="email" autoComplete="off" className="h-[54px] px-[16px] text-white text-16 w-full outline-0 border font-inter hide_tap rounded-[8px] focus:border-brand_primary bg-black" name="email"/></div>
                         </div>
                         <div className="flex md:block justify-center">
-                          <button className="bg-red-500 text-white font-inter font-semibold bg-accent text-white h-[54px] w-[160px] rounded-[8px]">Subscribe</button></div>
+                          <button className="bg-red-500 font-inter font-semibold bg-accent text-white h-[54px] w-[160px] rounded-[8px]">Subscribe</button></div>
                     </div>
                 </form>
             </div>
