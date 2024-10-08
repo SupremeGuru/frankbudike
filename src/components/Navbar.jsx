@@ -1,4 +1,4 @@
-import React ,{useState} from 'react'
+import React ,{useState} from 'react';
 import { imgAssets, imgAssets2 } from '../assets/images/imgAssets'
 import { Link, NavLink } from 'react-router-dom'
 
